@@ -118,6 +118,10 @@ def new_game():
     deal_player()
 
 
+def nar():
+    print("Say Hello")
+    
+
 def shuffle():
     random.shuffle(deck)
 
